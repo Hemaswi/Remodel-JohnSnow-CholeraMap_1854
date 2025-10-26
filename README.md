@@ -1,4 +1,5 @@
 # John Snow 1854 Cholera Outbreak Interactive Map
+![John Snow breaking Broad St. pump handle](https://github.com/Hemaswi/Remodel-JohnSnow-CholeraMap_1854/blob/main/images/pump_handle.png)
 Step right up and explore one of history’s most famous detective stories—with a modern twist! 
 This project takes John Snow’s classic 1854 cholera map and brings it to life using Python and Folium. It’s like mixing old-school sleuthing with new-school tech.
 
